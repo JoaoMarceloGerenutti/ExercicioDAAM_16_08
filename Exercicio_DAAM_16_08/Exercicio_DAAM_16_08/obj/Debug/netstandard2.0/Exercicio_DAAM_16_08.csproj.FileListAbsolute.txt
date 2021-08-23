@@ -1,0 +1,14 @@
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\bin\Debug\netstandard2.0\Exercicio_DAAM_16_08.deps.json
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\bin\Debug\netstandard2.0\Exercicio_DAAM_16_08.dll
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\bin\Debug\netstandard2.0\ref\Exercicio_DAAM_16_08.dll
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\bin\Debug\netstandard2.0\Exercicio_DAAM_16_08.pdb
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\Exercicio_DAAM_16_08.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\Exercicio_DAAM_16_08.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\Exercicio_DAAM_16_08.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\Exercicio_DAAM_16_08.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\Exercicio_DAAM_16_08.dll
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\ref\Exercicio_DAAM_16_08.dll
+C:\Users\GAMER\Desktop\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\Exercicio_DAAM_16_08\obj\Debug\netstandard2.0\Exercicio_DAAM_16_08.pdb
